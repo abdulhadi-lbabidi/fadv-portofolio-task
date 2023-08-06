@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fadv-portofolio-task/static/css/main.9b5ddb36.css",
-    "main.js": "/fadv-portofolio-task/static/js/main.89bee21e.js",
+    "main.js": "/fadv-portofolio-task/static/js/main.c7653dcf.js",
     "static/js/787.512dd3f2.chunk.js": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js",
     "static/media/homepage.jpg": "/fadv-portofolio-task/static/media/homepage.1c573aa91327c3602b7a.jpg",
     "static/media/logo.png": "/fadv-portofolio-task/static/media/logo.3add3815f80c83819f17.png",
@@ -10,11 +10,11 @@
     "static/media/nouharch.jpg": "/fadv-portofolio-task/static/media/nouharch.260f62d3ec5ca35ae116.jpg",
     "index.html": "/fadv-portofolio-task/index.html",
     "main.9b5ddb36.css.map": "/fadv-portofolio-task/static/css/main.9b5ddb36.css.map",
-    "main.89bee21e.js.map": "/fadv-portofolio-task/static/js/main.89bee21e.js.map",
+    "main.c7653dcf.js.map": "/fadv-portofolio-task/static/js/main.c7653dcf.js.map",
     "787.512dd3f2.chunk.js.map": "/fadv-portofolio-task/static/js/787.512dd3f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b5ddb36.css",
-    "static/js/main.89bee21e.js"
+    "static/js/main.c7653dcf.js"
   ]
 }
